@@ -1,0 +1,51 @@
+player_name,team_title,position,games,goals,assists,shots,xG,yellow_cards,red_cards,key_passes
+Harry Kane,Tottenham,F,35,23,14,138,22.17,6,0,67
+Mohamed Salah,Liverpool,F,37,22,5,76,20.25,3,1,22
+Bruno Fernandes,Manchester United,M,37,18,12,121,16.02,4,0,48
+Son Heung-Min,Tottenham,F,37,17,10,68,11.02,6,1,38
+Patrick Bamford,Leeds,F,38,17,7,82,18.4,2,0,78
+Dominic Calvert-Lewin,Everton,F,35,16,4,67,15.5,7,1,66
+Jamie Vardy,Leicester,F,34,15,4,80,19.94,4,1,18
+Ollie Watkins,Aston Villa,F,37,14,4,79,13.5,4,0,52
+Ilkay Gündogan,Manchester City,M,28,13,7,50,5.97,6,0,19
+Alexandre Lacazette,Arsenal,F,29,13,4,22,3.56,1,0,76
+Callum Wilson,Newcastle United,F,16,12,1,50,8.5,2,0,66
+Danny Ings,Southampton,F,28,12,4,69,14.6,6,0,44
+Marcus Rashford,Manchester United,F,37,11,11,70,9.8,2,0,57
+Sadio Mané,Liverpool,F,34,11,7,68,10.24,2,0,28
+Gareth Bale,Tottenham,F,20,11,3,41,12.7,7,0,30
+Phil Foden,Manchester City,M,28,9,5,28,6.5,4,1,64
+Kevin De Bruyne,Manchester City,M,24,6,11,79,9.91,3,1,45
+Jack Grealish,Aston Villa,F M S,26,6,10,50,5.19,7,0,33
+Mason Greenwood,Manchester United,F,24,7,3,40,7.2,7,1,19
+Timo Werner,Chelsea,F,35,6,4,80,13.43,2,1,49
+Pierre-Emerick Aubameyang,Arsenal,F,29,10,3,50,10.3,5,1,69
+Raheem Sterling,Manchester City,M S,33,10,5,44,8.44,4,1,75
+Jesse Lingard,Manchester United,M,26,9,4,35,6.8,1,0,13
+Riyad Mahrez,Manchester City,M S,33,9,5,56,9.5,7,1,5
+Harvey Barnes,Leicester,F M S,34,9,4,60,10.4,3,0,12
+Diogo Jota,Liverpool,F,30,9,4,58,8.6,5,1,67
+Gabriel Jesus,Manchester City,F,26,8,4,52,7.8,5,1,15
+Stuart Dallas,Leeds,D M S,37,8,2,26,5.1,1,1,12
+Neal Maupay,Brighton,F M S,29,8,5,48,7.5,7,0,39
+Nicolas Pepe,Arsenal,M S,33,8,3,58,7.2,3,1,39
+Jarrod Bowen,West Ham,F M S,26,8,4,44,5.8,4,0,37
+Bertrand Traoré,Aston Villa,F M S,30,7,2,32,4.2,0,1,9
+Jorginho,Chelsea,D M S,28,7,2,26,3.8,3,0,45
+Rodrigo,Leeds,F M S,29,7,2,30,4.0,1,1,32
+Richarlison,Everton,F M S,35,7,2,48,6.8,5,0,11
+Ferrán Torres,Manchester City,F M S,25,7,2,40,4.0,4,0,77
+Tammy Abraham,Chelsea,F,28,6,3,45,5.2,3,1,76
+Gylfi Sigurdsson,Everton,M S,29,6,3,36,4.1,0,0,16
+Danny Welbeck,Brighton,F,28,6,3,28,3.8,0,1,38
+Joe Wilcock,Crystal Palace,M S,25,8,1,44,4.8,2,1,37
+James Maddison,Leicester,M S,28,8,4,40,4.2,2,1,52
+Jack Harrison,Leeds,D,32,8,3,38,3.5,6,1,27
+Roberto Firmino,Liverpool,F,33,9,1,54,7.0,1,1,66
+Anwar El Ghazi,Aston Villa,F,28,10,2,48,6.5,7,1,41
+Tomas Soucek,West Ham,M S,37,10,3,58,7.8,3,1,48
+Edinson Cavani,Manchester United,F,26,10,1,38,5.4,3,1,39
+Che Adams,Southampton,F,31,9,2,32,5.2,7,1,69
+James Ward-Prowse,Southampton,D M S,35,8,2,28,4.8,6,1,51
+Michail Antonio,West Ham,F,28,10,4,40,6.4,5,1,7
+Christian Benteke,Crystal Palace,F,29,10,1,34,5.8,5,0,5
